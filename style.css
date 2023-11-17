@@ -7,13 +7,16 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: flex-end;
+    width: 1290px;
+    height: 1290px;
 }
 
-.item {
-    width: 6.25%;
-    height: 100.75px;
-}
+
 
 .item.black  {
     background-color: black;
+}
+
+.button  {
+    text-align: center;
 }
